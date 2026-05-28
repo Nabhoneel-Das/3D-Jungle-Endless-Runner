@@ -1,0 +1,6 @@
+{
+  "name": "3D Jungle Endless Runner",
+  "description": "A professional 3D temple-runner-style endless running game built with Three.js and React, featuring procedural paths, dynamic camera follower, barriers, coins, power-ups, atmospheric lighting, and high-performance physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
